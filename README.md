@@ -1,5 +1,7 @@
 # Case Study - Nexo.io
 
+![Nexo logo](/nexo.jpeg)
+
 ## Overview and Origin
 
 Nexo was founded in 2017 by Antoni Trenchev, Georgi Shulev, and Kosta Kantchev. The company is registered in London, England. At that time, Bitcoin, Etherum and other crypto coins were getting more recognition and price appreciation, but the main thing that was missing is real world use cases that will drive the adoption.
